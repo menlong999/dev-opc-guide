@@ -72,14 +72,14 @@
 - [收到 2.1 或 2.5.4，审核视频和回复怎么准备？](05-app-store.md#q051)
 - [AI 写的审核说明，怎么避免比送审版本的功能还超前？](05-app-store.md#q052)
 - [已经显示“可分发”，中国大陆却找不到 App，怎么查？](05-app-store.md#q053)
-- [本地工具向 Apple 解释大陆分发问题，要说明哪些事实？](05-app-store.md#q054)
+- [不联网的 App 上架 App Store，可以不做 ICP 备案吗？](05-app-store.md#q054)
 - [App 能安装、沙盒也买过，正式内购为什么还可能不能用？](05-app-store.md#q055)
 - [首次内购怎么和 App 一起送审，以后每次都要新版本吗？](05-app-store.md#q056)
 - [价格币种不一致、内购审核截图选哪张，分别怎么处理？](05-app-store.md#q057)
 
 ## WorkBuddy 连接器、专家、Buddy App 与付费技能
 
-- [连接器、专家和 Buddy App，分别解决什么问题？](06-workbuddy.md#q058)
+- [WorkBuddy 很火，怎么把自己的工具放上去，争取自然流量？](06-workbuddy.md#q058)
 - [连接器在本地能跑，为什么 Windows 审核机找不到 npm？](06-workbuddy.md#q059)
 - [Git 仓库、npm 包、连接器和技能版本，怎么对应？](06-workbuddy.md#q060)
 - [没有用开放接口，Buddy App 为什么还卡在授权列表？](06-workbuddy.md#q061)
